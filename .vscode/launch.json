@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/czq/Workspace/leetcode/排序手撕",
+      "program": "/Users/czq/Workspace/leetcode/排序手撕/build/Debug/outDebug"
+    }
+  ]
+}
